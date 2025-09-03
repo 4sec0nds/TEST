@@ -1,0 +1,11 @@
+D:\XDPMQLBH\Project\QLBS\QLBS\bin\Debug\QLBS.exe.config
+D:\XDPMQLBH\Project\QLBS\QLBS\bin\Debug\QLBS.exe
+D:\XDPMQLBH\Project\QLBS\QLBS\bin\Debug\QLBS.pdb
+D:\XDPMQLBH\Project\QLBS\QLBS\obj\Debug\QLBS.csprojResolveAssemblyReference.cache
+D:\XDPMQLBH\Project\QLBS\QLBS\obj\Debug\QLBS.Properties.Resources.resources
+D:\XDPMQLBH\Project\QLBS\QLBS\obj\Debug\QLBS.csproj.GenerateResource.Cache
+D:\XDPMQLBH\Project\QLBS\QLBS\obj\Debug\QLBS.exe
+D:\XDPMQLBH\Project\QLBS\QLBS\obj\Debug\QLBS.pdb
+D:\XDPMQLBH\Project\QLBS\QLBS\obj\Debug\QLBS.Form2.resources
+D:\XDPMQLBH\Project\QLBS\QLBS\obj\Debug\QLBS.FormDangNhap.resources
+D:\XDPMQLBH\Project\QLBS\QLBS\obj\Debug\QLBS.FormTest.resources
