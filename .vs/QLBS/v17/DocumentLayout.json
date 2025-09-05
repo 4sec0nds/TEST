@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\XDPMQLBH\\Project\\QLBS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7671BCFA-5D8B-491D-AE28-7AF7D808D41B}|QLBS\\QLBS.csproj|D:\\XDPMQLBH\\Project\\QLBS\\qlbs\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7671BCFA-5D8B-491D-AE28-7AF7D808D41B}|QLBS\\QLBS.csproj|solutionrelative:qlbs\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7671BCFA-5D8B-491D-AE28-7AF7D808D41B}|QLBS\\QLBS.csproj|d:\\xdpmqlbh\\project\\qlbs\\qlbs\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7671BCFA-5D8B-491D-AE28-7AF7D808D41B}|QLBS\\QLBS.csproj|solutionrelative:qlbs\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7671BCFA-5D8B-491D-AE28-7AF7D808D41B}|QLBS\\QLBS.csproj|D:\\XDPMQLBH\\Project\\QLBS\\qlbs\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7671BCFA-5D8B-491D-AE28-7AF7D808D41B}|QLBS\\QLBS.csproj|solutionrelative:qlbs\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7671BCFA-5D8B-491D-AE28-7AF7D808D41B}|QLBS\\QLBS.csproj|D:\\XDPMQLBH\\Project\\QLBS\\qlbs\\formtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7671BCFA-5D8B-491D-AE28-7AF7D808D41B}|QLBS\\QLBS.csproj|solutionrelative:qlbs\\formtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7671BCFA-5D8B-491D-AE28-7AF7D808D41B}|QLBS\\QLBS.csproj|d:\\xdpmqlbh\\project\\qlbs\\qlbs\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7671BCFA-5D8B-491D-AE28-7AF7D808D41B}|QLBS\\QLBS.csproj|solutionrelative:qlbs\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7671BCFA-5D8B-491D-AE28-7AF7D808D41B}|QLBS\\QLBS.csproj|D:\\XDPMQLBH\\Project\\QLBS\\qlbs\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7671BCFA-5D8B-491D-AE28-7AF7D808D41B}|QLBS\\QLBS.csproj|solutionrelative:qlbs\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7671BCFA-5D8B-491D-AE28-7AF7D808D41B}|QLBS\\QLBS.csproj|D:\\XDPMQLBH\\Project\\QLBS\\qlbs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7671BCFA-5D8B-491D-AE28-7AF7D808D41B}|QLBS\\QLBS.csproj|solutionrelative:qlbs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7671BCFA-5D8B-491D-AE28-7AF7D808D41B}|QLBS\\QLBS.csproj|D:\\XDPMQLBH\\Project\\QLBS\\qlbs\\formtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7671BCFA-5D8B-491D-AE28-7AF7D808D41B}|QLBS\\QLBS.csproj|solutionrelative:qlbs\\formtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7671BCFA-5D8B-491D-AE28-7AF7D808D41B}|QLBS\\QLBS.csproj|D:\\XDPMQLBH\\Project\\QLBS\\qlbs\\formdangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7671BCFA-5D8B-491D-AE28-7AF7D808D41B}|QLBS\\QLBS.csproj|solutionrelative:qlbs\\formdangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "D:\\XDPMQLBH\\Project\\QLBS\\QLBS\\FormMain.cs",
+              "RelativeDocumentMoniker": "QLBS\\FormMain.cs",
+              "ToolTip": "D:\\XDPMQLBH\\Project\\QLBS\\QLBS\\FormMain.cs [Design]",
+              "RelativeToolTip": "QLBS\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T04:59:09.002Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormDangNhap.cs",
+              "DocumentMoniker": "D:\\XDPMQLBH\\Project\\QLBS\\QLBS\\FormDangNhap.cs",
+              "RelativeDocumentMoniker": "QLBS\\FormDangNhap.cs",
+              "ToolTip": "D:\\XDPMQLBH\\Project\\QLBS\\QLBS\\FormDangNhap.cs",
+              "RelativeToolTip": "QLBS\\FormDangNhap.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwFMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T10:23:52.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "D:\\XDPMQLBH\\Project\\QLBS\\QLBS\\DataProvider.cs",
+              "RelativeDocumentMoniker": "QLBS\\DataProvider.cs",
+              "ToolTip": "D:\\XDPMQLBH\\Project\\QLBS\\QLBS\\DataProvider.cs",
+              "RelativeToolTip": "QLBS\\DataProvider.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwBIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T10:12:59.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormTest.cs",
+              "DocumentMoniker": "D:\\XDPMQLBH\\Project\\QLBS\\QLBS\\FormTest.cs",
+              "RelativeDocumentMoniker": "QLBS\\FormTest.cs",
+              "ToolTip": "D:\\XDPMQLBH\\Project\\QLBS\\QLBS\\FormTest.cs",
+              "RelativeToolTip": "QLBS\\FormTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T08:29:34.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "D:\\XDPMQLBH\\Project\\QLBS\\QLBS\\FormMain.cs",
+              "RelativeDocumentMoniker": "QLBS\\FormMain.cs",
+              "ToolTip": "D:\\XDPMQLBH\\Project\\QLBS\\QLBS\\FormMain.cs",
+              "RelativeToolTip": "QLBS\\FormMain.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAWwBwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T08:15:23.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormDangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\XDPMQLBH\\Project\\QLBS\\QLBS\\FormDangNhap.cs",
+              "RelativeDocumentMoniker": "QLBS\\FormDangNhap.cs",
+              "ToolTip": "D:\\XDPMQLBH\\Project\\QLBS\\QLBS\\FormDangNhap.cs [Design]",
+              "RelativeToolTip": "QLBS\\FormDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T04:59:12.231Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\XDPMQLBH\\Project\\QLBS\\QLBS\\Program.cs",
+              "RelativeDocumentMoniker": "QLBS\\Program.cs",
+              "ToolTip": "D:\\XDPMQLBH\\Project\\QLBS\\QLBS\\Program.cs",
+              "RelativeToolTip": "QLBS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T05:05:01.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormTest.cs [Design]",
+              "DocumentMoniker": "D:\\XDPMQLBH\\Project\\QLBS\\QLBS\\FormTest.cs",
+              "RelativeDocumentMoniker": "QLBS\\FormTest.cs",
+              "ToolTip": "D:\\XDPMQLBH\\Project\\QLBS\\QLBS\\FormTest.cs [Design]",
+              "RelativeToolTip": "QLBS\\FormTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T05:04:25.913Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormDangNhap.Designer.cs",
+              "DocumentMoniker": "D:\\XDPMQLBH\\Project\\QLBS\\QLBS\\FormDangNhap.Designer.cs",
+              "RelativeDocumentMoniker": "QLBS\\FormDangNhap.Designer.cs",
+              "ToolTip": "D:\\XDPMQLBH\\Project\\QLBS\\QLBS\\FormDangNhap.Designer.cs",
+              "RelativeToolTip": "QLBS\\FormDangNhap.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T07:53:14.531Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

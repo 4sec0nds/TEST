@@ -58,7 +58,7 @@ namespace QLBS
                                         "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                         // Mở FormMain
-                        Form2 frm = new Form2();
+                        FormMain frm = new FormMain();
                         this.Hide();
                         frm.ShowDialog();
                         this.Show();
