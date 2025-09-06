@@ -7,9 +7,9 @@ D:\XDPMQLBH\Project\QLBS\QLBS\obj\Debug\QLBS.exe
 D:\XDPMQLBH\Project\QLBS\QLBS\obj\Debug\QLBS.pdb
 D:\XDPMQLBH\Project\QLBS\QLBS\obj\Debug\QLBS.FormDangNhap.resources
 D:\XDPMQLBH\Project\QLBS\QLBS\obj\Debug\QLBS.FormTest.resources
-D:\XDPMQLBH\Project\QLBS\QLBS\obj\Debug\QLBS.csproj.AssemblyReference.cache
-D:\XDPMQLBH\Project\QLBS\QLBS\obj\Debug\QLBS.csproj.CoreCompileInputs.cache
 D:\XDPMQLBH\Project\QLBS\QLBS\bin\Debug\Guna.UI2.dll
-D:\XDPMQLBH\Project\QLBS\QLBS\obj\Debug\QLBS.csproj.Up2Date
 D:\XDPMQLBH\Project\QLBS\QLBS\obj\Debug\QLBS.Form1.resources
 D:\XDPMQLBH\Project\QLBS\QLBS\obj\Debug\QLBS.FormMain.resources
+D:\XDPMQLBH\Project\QLBS\QLBS\obj\Debug\QLBS.csproj.AssemblyReference.cache
+D:\XDPMQLBH\Project\QLBS\QLBS\obj\Debug\QLBS.csproj.CoreCompileInputs.cache
+D:\XDPMQLBH\Project\QLBS\QLBS\obj\Debug\QLBS.csproj.Up2Date

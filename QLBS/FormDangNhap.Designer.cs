@@ -28,48 +28,19 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormDangNhap));
-            this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.taikhoan = new System.Windows.Forms.TextBox();
             this.matkhau = new System.Windows.Forms.TextBox();
             this.checkBox1 = new System.Windows.Forms.CheckBox();
             this.DangNhap = new System.Windows.Forms.Button();
             this.Thoat = new System.Windows.Forms.Button();
             this.linkLabel1 = new System.Windows.Forms.LinkLabel();
             this.guna2HtmlLabel1 = new Guna.UI2.WinForms.Guna2HtmlLabel();
+            this.guna2HtmlLabel2 = new Guna.UI2.WinForms.Guna2HtmlLabel();
+            this.taikhoan = new Guna.UI2.WinForms.Guna2TextBox();
             this.SuspendLayout();
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(38, 118);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(168, 37);
-            this.label2.TabIndex = 1;
-            this.label2.Text = "Tài khoản";
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(42, 173);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(157, 37);
-            this.label3.TabIndex = 2;
-            this.label3.Text = "Mật khẩu";
-            // 
-            // taikhoan
-            // 
-            this.taikhoan.Location = new System.Drawing.Point(214, 130);
-            this.taikhoan.Name = "taikhoan";
-            this.taikhoan.Size = new System.Drawing.Size(430, 26);
-            this.taikhoan.TabIndex = 3;
             // 
             // matkhau
             // 
-            this.matkhau.Location = new System.Drawing.Point(214, 183);
+            this.matkhau.Location = new System.Drawing.Point(569, 301);
             this.matkhau.Name = "matkhau";
             this.matkhau.PasswordChar = '*';
             this.matkhau.Size = new System.Drawing.Size(430, 26);
@@ -78,7 +49,7 @@
             // checkBox1
             // 
             this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(288, 268);
+            this.checkBox1.Location = new System.Drawing.Point(609, 395);
             this.checkBox1.Name = "checkBox1";
             this.checkBox1.Size = new System.Drawing.Size(159, 24);
             this.checkBox1.TabIndex = 5;
@@ -88,7 +59,7 @@
             // DangNhap
             // 
             this.DangNhap.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.DangNhap.Location = new System.Drawing.Point(157, 328);
+            this.DangNhap.Location = new System.Drawing.Point(512, 436);
             this.DangNhap.Name = "DangNhap";
             this.DangNhap.Size = new System.Drawing.Size(167, 48);
             this.DangNhap.TabIndex = 6;
@@ -99,7 +70,7 @@
             // Thoat
             // 
             this.Thoat.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Thoat.Location = new System.Drawing.Point(431, 328);
+            this.Thoat.Location = new System.Drawing.Point(787, 436);
             this.Thoat.Name = "Thoat";
             this.Thoat.Size = new System.Drawing.Size(167, 48);
             this.Thoat.TabIndex = 7;
@@ -109,7 +80,7 @@
             // linkLabel1
             // 
             this.linkLabel1.AutoSize = true;
-            this.linkLabel1.Location = new System.Drawing.Point(512, 236);
+            this.linkLabel1.Location = new System.Drawing.Point(836, 395);
             this.linkLabel1.Name = "linkLabel1";
             this.linkLabel1.Size = new System.Drawing.Size(118, 20);
             this.linkLabel1.TabIndex = 9;
@@ -119,28 +90,61 @@
             // guna2HtmlLabel1
             // 
             this.guna2HtmlLabel1.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel1.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2HtmlLabel1.Location = new System.Drawing.Point(157, 33);
+            this.guna2HtmlLabel1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guna2HtmlLabel1.Location = new System.Drawing.Point(722, 73);
             this.guna2HtmlLabel1.Name = "guna2HtmlLabel1";
-            this.guna2HtmlLabel1.Size = new System.Drawing.Size(371, 42);
+            this.guna2HtmlLabel1.Size = new System.Drawing.Size(176, 39);
             this.guna2HtmlLabel1.TabIndex = 10;
-            this.guna2HtmlLabel1.Text = "Đăng Nhập Hệ Thống";
+            this.guna2HtmlLabel1.Text = "Đăng Nhập";
+            // 
+            // guna2HtmlLabel2
+            // 
+            this.guna2HtmlLabel2.BackColor = System.Drawing.Color.Transparent;
+            this.guna2HtmlLabel2.Font = new System.Drawing.Font("Arial", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guna2HtmlLabel2.Location = new System.Drawing.Point(512, 145);
+            this.guna2HtmlLabel2.Name = "guna2HtmlLabel2";
+            this.guna2HtmlLabel2.Size = new System.Drawing.Size(158, 39);
+            this.guna2HtmlLabel2.TabIndex = 11;
+            this.guna2HtmlLabel2.Text = "Tài Khoản";
+            this.guna2HtmlLabel2.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // taikhoan
+            // 
+            this.taikhoan.BackColor = System.Drawing.Color.Transparent;
+            this.taikhoan.BorderColor = System.Drawing.Color.Black;
+            this.taikhoan.BorderRadius = 20;
+            this.taikhoan.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.taikhoan.DefaultText = "";
+            this.taikhoan.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
+            this.taikhoan.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
+            this.taikhoan.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.taikhoan.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.taikhoan.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.taikhoan.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.taikhoan.ForeColor = System.Drawing.Color.Transparent;
+            this.taikhoan.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.taikhoan.Location = new System.Drawing.Point(512, 201);
+            this.taikhoan.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.taikhoan.Name = "taikhoan";
+            this.taikhoan.PlaceholderForeColor = System.Drawing.Color.DarkGray;
+            this.taikhoan.PlaceholderText = "Nhập Tài Khoản";
+            this.taikhoan.SelectedText = "";
+            this.taikhoan.Size = new System.Drawing.Size(477, 60);
+            this.taikhoan.TabIndex = 12;
             // 
             // FormDangNhap
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-            this.ClientSize = new System.Drawing.Size(713, 452);
+            this.ClientSize = new System.Drawing.Size(1070, 551);
+            this.Controls.Add(this.taikhoan);
+            this.Controls.Add(this.guna2HtmlLabel2);
             this.Controls.Add(this.guna2HtmlLabel1);
             this.Controls.Add(this.linkLabel1);
             this.Controls.Add(this.Thoat);
             this.Controls.Add(this.DangNhap);
             this.Controls.Add(this.checkBox1);
             this.Controls.Add(this.matkhau);
-            this.Controls.Add(this.taikhoan);
-            this.Controls.Add(this.label3);
-            this.Controls.Add(this.label2);
             this.Name = "FormDangNhap";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FormDangNhap";
@@ -150,14 +154,13 @@
         }
 
         #endregion
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.TextBox taikhoan;
         private System.Windows.Forms.TextBox matkhau;
         private System.Windows.Forms.CheckBox checkBox1;
         private System.Windows.Forms.Button DangNhap;
         private System.Windows.Forms.Button Thoat;
         private System.Windows.Forms.LinkLabel linkLabel1;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel1;
+        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel2;
+        private Guna.UI2.WinForms.Guna2TextBox taikhoan;
     }
 }

@@ -10,7 +10,7 @@ namespace QLBS
 {
     public class DataProvider
     {
-        private string connecString = "";
+        private string connecString = @"Data Source=.;Initial Catalog=TEST;Integrated Security=True";
         public DataTable execQuery(string query)
         {
             DataTable data = new DataTable();
