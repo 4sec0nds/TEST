@@ -18,7 +18,7 @@ namespace QLBS
         {
             InitializeComponent();
 
-            
+
             DangNhap.Click += DangNhap_Click;   // Đăng nhập
             Thoat.Click += Thoat_Click;   // Thoát
             checkBox1.CheckedChanged += checkBox1_CheckedChanged; // checkbox hiện mật khẩu
@@ -75,19 +75,19 @@ namespace QLBS
                 }
             }
         }
-        
+
         private void Thoat_Click(object sender, EventArgs e)
         {
             Application.Exit();
         }
 
-        
+
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
             if (checkBox1.Checked)
-                matkhau.PasswordChar = '\0'; 
+                matkhau.PasswordChar = '\0';
             else
-                matkhau.PasswordChar = '*';  
+                matkhau.PasswordChar = '*';
         }
 
         private void DangNhap_Click_1(object sender, EventArgs e)
@@ -95,6 +95,9 @@ namespace QLBS
 
         }
 
-       
+        private void FormDangNhap_Load(object sender, EventArgs e)
+        {
+            panel1.BackColor = Color.FromArgb(60, 0, 0, 0);
+        }
     }
 }
