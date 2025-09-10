@@ -8,9 +8,10 @@ using System.Threading.Tasks;
 
 namespace QLBS
 {
+    //Data Source=.;Initial Catalog=TEST;Integrated Security=True;Trust Server Certificate=True
     public class DataProvider
     {
-        private string connecString = @"Data Source=.;Initial Catalog=TEST;Integrated Security=True";
+        private string connecString = @"Data Source=.;Initial Catalog=TEST;Integrated Security=True;TrustServerCertificate=True";
         public DataTable execQuery(string query)
         {
             DataTable data = new DataTable();
