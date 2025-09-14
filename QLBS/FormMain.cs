@@ -65,6 +65,24 @@ namespace QLBS
             dgSach.DataSource = dt;
         }
 
+        private void searchSach(string keyword)
+        {
+            DataTable dt = new DataTable();
+
+            StringBuilder query = new StringBuilder("SELECT ma_sach as [Mã Sách]");
+            query.Append(", ten_sach as [Tên Sách]");
+            query.Append(", ten_loai_sach as [Loại Sách]");
+            query.Append(", tac_gia as [Tác Giả]");
+            query.Append(", so_luong as [Số Lượng]");
+            query.Append(", gia_ban as [Giá Bán]");
+            query.Append(" FROM tbl_Sach, tbl_loai_sach");
+            query.Append(" WHERE tbl_Sach.ma_loai_sach = tbl_loai_sach.ma_loai_sach");
+            query.Append(" AND (ten_sach LIKE N'%" + keyword + "%' OR tac_gia LIKE N'%" + keyword + "%')");
+
+            dt = dataProvider.execQuery(query.ToString());
+            dgSach.DataSource = dt;
+        }
+
 
         private void loadcbSachLoaiSach()
         {
@@ -623,6 +641,28 @@ namespace QLBS
             else
             {
                 MessageBox.Show("Không có dữ liệu để xuất!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
+        }
+
+        private void btnSearch_Click(object sender, EventArgs e)
+        {
+            string keyword = txtSearch.Text.Trim();
+            searchSach(keyword);
+        }
+
+        private void btnSearch_TextChanged(object sender, EventArgs e)
+        {
+            string keyword = txtSearch.Text.Trim();
+
+            if (string.IsNullOrEmpty(keyword))
+            {
+                // Nếu ô tìm kiếm trống -> load lại tất cả sách
+                loadDgSach();
+            }
+            else
+            {
+                // Nếu có từ khóa -> tìm kiếm
+                searchSach(keyword);
             }
         }
     }

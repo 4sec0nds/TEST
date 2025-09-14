@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\XDPMQLBH\\Project\\QLBS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7671BCFA-5D8B-491D-AE28-7AF7D808D41B}|QLBS\\QLBS.csproj|D:\\XDPMQLBH\\Project\\QLBS\\qlbs\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7671BCFA-5D8B-491D-AE28-7AF7D808D41B}|QLBS\\QLBS.csproj|d:\\xdpmqlbh\\project\\qlbs\\qlbs\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7671BCFA-5D8B-491D-AE28-7AF7D808D41B}|QLBS\\QLBS.csproj|solutionrelative:qlbs\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7671BCFA-5D8B-491D-AE28-7AF7D808D41B}|QLBS\\QLBS.csproj|d:\\xdpmqlbh\\project\\qlbs\\qlbs\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7671BCFA-5D8B-491D-AE28-7AF7D808D41B}|QLBS\\QLBS.csproj|D:\\XDPMQLBH\\Project\\QLBS\\qlbs\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7671BCFA-5D8B-491D-AE28-7AF7D808D41B}|QLBS\\QLBS.csproj|solutionrelative:qlbs\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -97,7 +97,7 @@
               "RelativeDocumentMoniker": "QLBS\\FormMain.cs",
               "ToolTip": "D:\\XDPMQLBH\\Project\\QLBS\\QLBS\\FormMain.cs",
               "RelativeToolTip": "QLBS\\FormMain.cs",
-              "ViewState": "AgIAAAsBAAAAAAAAAAAiwBABAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAPABAAAAAAAAAAAAAJkCAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-05T08:15:23.127Z",
               "IsPinned": true,
@@ -117,8 +117,7 @@
               "RelativeToolTip": "QLBS\\FormChiTietPhieuNhap.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAcwCcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T13:56:56.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-08T13:56:56.243Z"
             },
             {
               "$type": "Document",
@@ -130,8 +129,7 @@
               "RelativeToolTip": "QLBS\\FormMain.Designer.cs",
               "ViewState": "AgIAAOMCAAAAAAAAAAAWwOMCAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T07:33:00.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-06T07:33:00.208Z"
             },
             {
               "$type": "Document",
@@ -143,8 +141,7 @@
               "RelativeToolTip": "QLBS\\DataProvider.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T10:12:59.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T10:12:59.169Z"
             },
             {
               "$type": "Document",
@@ -155,8 +152,7 @@
               "ToolTip": "D:\\XDPMQLBH\\Project\\QLBS\\QLBS\\FormChiTietPhieuNhap.cs [Design]",
               "RelativeToolTip": "QLBS\\FormChiTietPhieuNhap.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T13:47:36.045Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-09-08T13:47:36.045Z"
             },
             {
               "$type": "Document",
@@ -168,8 +164,7 @@
               "RelativeToolTip": "QLBS\\FormChiTietPhieuNhap.Designer.cs",
               "ViewState": "AgIAAMkAAAAAAAAAAAAWwOEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T13:57:07.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-08T13:57:07.904Z"
             },
             {
               "$type": "Document",
@@ -180,8 +175,7 @@
               "ToolTip": "D:\\XDPMQLBH\\Project\\QLBS\\QLBS\\FormChiTietHoaDon.cs [Design]",
               "RelativeToolTip": "QLBS\\FormChiTietHoaDon.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T13:47:15.827Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-09-08T13:47:15.827Z"
             },
             {
               "$type": "Document",
@@ -193,8 +187,7 @@
               "RelativeToolTip": "QLBS\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T05:05:01.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T05:05:01.624Z"
             },
             {
               "$type": "Document",
@@ -206,8 +199,7 @@
               "RelativeToolTip": "QLBS\\FormDangNhap.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T07:53:14.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T07:53:14.531Z"
             },
             {
               "$type": "Document",
@@ -219,8 +211,7 @@
               "RelativeToolTip": "QLBS\\FormTest.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAuwA4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T08:29:34.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T08:29:34.721Z"
             },
             {
               "$type": "Document",
@@ -232,8 +223,7 @@
               "RelativeToolTip": "QLBS\\FormDangNhap.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T10:23:52.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T10:23:52.301Z"
             },
             {
               "$type": "Document",
@@ -244,8 +234,7 @@
               "ToolTip": "D:\\XDPMQLBH\\Project\\QLBS\\QLBS\\FormDangNhap.cs [Design]",
               "RelativeToolTip": "QLBS\\FormDangNhap.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T04:59:12.231Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-09-05T04:59:12.231Z"
             },
             {
               "$type": "Document",
@@ -256,8 +245,7 @@
               "ToolTip": "D:\\XDPMQLBH\\Project\\QLBS\\QLBS\\FormTest.cs [Design]",
               "RelativeToolTip": "QLBS\\FormTest.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T05:04:25.913Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-09-05T05:04:25.913Z"
             },
             {
               "$type": "Document",
@@ -269,8 +257,7 @@
               "RelativeToolTip": "QLBS\\FormTest.Designer.cs",
               "ViewState": "AgIAAJMAAAAAAAAAAAAEwKEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T07:03:30.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-07T07:03:30.79Z"
             },
             {
               "$type": "Document",
@@ -281,8 +268,7 @@
               "ToolTip": "D:\\XDPMQLBH\\Project\\QLBS\\QLBS\\Form1.cs [Design]",
               "RelativeToolTip": "QLBS\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T17:56:59.871Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-09-05T17:56:59.871Z"
             }
           ]
         }

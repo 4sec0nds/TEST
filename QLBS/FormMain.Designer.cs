@@ -80,6 +80,8 @@
             this.label14 = new System.Windows.Forms.Label();
             this.txtPhieuNhapNhaCungCap = new System.Windows.Forms.TextBox();
             this.label16 = new System.Windows.Forms.Label();
+            this.txtSearch = new Guna.UI2.WinForms.Guna2TextBox();
+            this.btnSearch = new Guna.UI2.WinForms.Guna2Button();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgSach)).BeginInit();
@@ -141,6 +143,8 @@
             // 
             // panel2
             // 
+            this.panel2.Controls.Add(this.btnSearch);
+            this.panel2.Controls.Add(this.txtSearch);
             this.panel2.Controls.Add(this.btnExcel);
             this.panel2.Controls.Add(this.numSachGiaBan);
             this.panel2.Controls.Add(this.btnSachThem);
@@ -180,7 +184,7 @@
             // 
             // numSachGiaBan
             // 
-            this.numSachGiaBan.Location = new System.Drawing.Point(715, 61);
+            this.numSachGiaBan.Location = new System.Drawing.Point(660, 61);
             this.numSachGiaBan.Maximum = new decimal(new int[] {
             1000000000,
             0,
@@ -240,7 +244,7 @@
             // 
             // numSachSoLuong
             // 
-            this.numSachSoLuong.Location = new System.Drawing.Point(476, 61);
+            this.numSachSoLuong.Location = new System.Drawing.Point(421, 61);
             this.numSachSoLuong.Maximum = new decimal(new int[] {
             1000000,
             0,
@@ -253,7 +257,7 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(635, 63);
+            this.label6.Location = new System.Drawing.Point(580, 63);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(74, 20);
             this.label6.TabIndex = 12;
@@ -262,7 +266,7 @@
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(365, 61);
+            this.label7.Location = new System.Drawing.Point(329, 61);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(86, 20);
             this.label7.TabIndex = 10;
@@ -279,15 +283,15 @@
             // 
             // txtSachTacGia
             // 
-            this.txtSachTacGia.Location = new System.Drawing.Point(114, 57);
+            this.txtSachTacGia.Location = new System.Drawing.Point(95, 57);
             this.txtSachTacGia.Name = "txtSachTacGia";
-            this.txtSachTacGia.Size = new System.Drawing.Size(235, 26);
+            this.txtSachTacGia.Size = new System.Drawing.Size(194, 26);
             this.txtSachTacGia.TabIndex = 7;
             // 
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(542, 11);
+            this.label9.Location = new System.Drawing.Point(370, 15);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(89, 20);
             this.label9.TabIndex = 6;
@@ -296,7 +300,7 @@
             // cbSachLoaiSach
             // 
             this.cbSachLoaiSach.FormattingEnabled = true;
-            this.cbSachLoaiSach.Location = new System.Drawing.Point(672, 8);
+            this.cbSachLoaiSach.Location = new System.Drawing.Point(465, 11);
             this.cbSachLoaiSach.Name = "cbSachLoaiSach";
             this.cbSachLoaiSach.Size = new System.Drawing.Size(283, 28);
             this.cbSachLoaiSach.TabIndex = 5;
@@ -313,9 +317,9 @@
             // 
             // txtSachTenSach
             // 
-            this.txtSachTenSach.Location = new System.Drawing.Point(114, 11);
+            this.txtSachTenSach.Location = new System.Drawing.Point(95, 11);
             this.txtSachTenSach.Name = "txtSachTenSach";
-            this.txtSachTenSach.Size = new System.Drawing.Size(337, 26);
+            this.txtSachTenSach.Size = new System.Drawing.Size(245, 26);
             this.txtSachTenSach.TabIndex = 3;
             // 
             // tabPage2
@@ -737,6 +741,45 @@
             this.label16.TabIndex = 4;
             this.label16.Text = "Ngày Lập Phiếu Nhập";
             // 
+            // txtSearch
+            // 
+            this.txtSearch.BorderRadius = 15;
+            this.txtSearch.BorderStyle = System.Drawing.Drawing2D.DashStyle.DashDot;
+            this.txtSearch.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtSearch.DefaultText = "";
+            this.txtSearch.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
+            this.txtSearch.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
+            this.txtSearch.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.txtSearch.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.txtSearch.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.txtSearch.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.txtSearch.ForeColor = System.Drawing.Color.Black;
+            this.txtSearch.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.txtSearch.Location = new System.Drawing.Point(833, 8);
+            this.txtSearch.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.txtSearch.Name = "txtSearch";
+            this.txtSearch.PlaceholderText = "Tìm Kiếm Sách";
+            this.txtSearch.SelectedText = "";
+            this.txtSearch.Size = new System.Drawing.Size(286, 41);
+            this.txtSearch.TabIndex = 19;
+            // 
+            // btnSearch
+            // 
+            this.btnSearch.BorderRadius = 15;
+            this.btnSearch.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.btnSearch.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.btnSearch.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.btnSearch.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.btnSearch.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSearch.ForeColor = System.Drawing.Color.White;
+            this.btnSearch.Location = new System.Drawing.Point(920, 60);
+            this.btnSearch.Name = "btnSearch";
+            this.btnSearch.Size = new System.Drawing.Size(133, 45);
+            this.btnSearch.TabIndex = 20;
+            this.btnSearch.Text = "Tìm Kiếm";
+            this.btnSearch.TextChanged += new System.EventHandler(this.btnSearch_TextChanged);
+            this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);
+            // 
             // FormMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
@@ -824,6 +867,8 @@
         private Guna.UI2.WinForms.Guna2Button btnExcel;
         private Guna.UI2.WinForms.Guna2Button btnExcel1;
         private Guna.UI2.WinForms.Guna2Button guna2Button2;
+        private Guna.UI2.WinForms.Guna2Button btnSearch;
+        private Guna.UI2.WinForms.Guna2TextBox txtSearch;
     }
 }
 
